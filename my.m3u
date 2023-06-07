@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1,A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+
+#EXTINF:-1,Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd.m3u8
+
+#EXTINF:-1,Amedia Premium HD
+https://sc.id-tv.kz/amedia_pr_hd.m3u8
+
+#EXTINF:-1,Eurochannel HD
+http://84.22.33.214/EuroChannel/index.m3u8?telegramm=yossotv
+
+#EXTINF:-1,Eurochannel HD
+http://84.22.33.214/EuroChannel/index.m3u8
+
+#EXTINF:-1,FOX HD
+https://sc.id-tv.kz/FOX_HD.m3u8
+
+#EXTINF:-1,Fox_HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+
+#EXTINF:-1,Fox_Life_HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+
+#EXTINF:-1,Kino Watch TV 1 HD
+https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Kino Watch TV 2 HD
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Paramount Comedy HD
+http://109.171.45.109:81/udp/239.54.5.117:1234
+
+#EXTINF:-1,TV1000 HD
+http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000_hd/HLSv3/tv1000_hd.m3u8
+
+EXTINF:-1,TV1000 Русское кино HD
+http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000russkoe_kino_hd/HLSv3/tv1000russkoe_kino_hd.m3u8
+
+#EXTINF:-1,TV1000_Action_HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+
+#EXTINF:-1,TV1000_HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+
+#EXTINF:-1,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+
+#EXTINF:-1,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+
+#EXTINF:-1,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+
+#EXTINF:-1,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+
+#EXTINF:-1,Дом кино премиум HD
+https://sc.id-tv.kz/domkino_hd.m3u8
+
+#EXTINF:-1,Иллюзион+
+http://178.163.29.89:4022/udp/234.0.0.175:2000
+
+#EXTINF:-1,Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+
+#EXTINF:-1,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+
+#EXTINF:-1,Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+
+#EXTINF:-1,Киносемья FHD
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+
+#EXTINF:-1,ТВ 3 HD
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8?telegramm=yossotv
